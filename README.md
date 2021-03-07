@@ -1,8 +1,8 @@
-<h1 align="center">🍕 DS Delivery</h1>
+<h1 align="center">📺 Página de Filmes da Netflix</h1>
 <p align="center">
-  <strong>App desenvolvido durante a 2ª edição do evento Semana DevSuperior</strong>
+  <strong>App desenvolvido como forma de estudo sobre REACT</strong>
   <br>
-  <span>O Projeto consiste em um sistema de registro e entrega de pedidos. Foi utilizado Java com Spring Boot, e implantação no Heroku</span>
+  <span>Clone da página de filmes da Netflix com suas respectivas categorias</span>
 </p>
 
 
@@ -10,7 +10,7 @@
 
 ### Site 💻
 
-- [DS Delivery](https://sds2-ds-deliver.netlify.app/)
+- [Netflix](https://netflix-react-matheusdias20.vercel.app/)
 
 ## Biblioteca: 📙
 - REACT
